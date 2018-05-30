@@ -26,6 +26,8 @@ class ShowViewController: UIViewController {
     
     override func viewDidLoad() {
         
+        super.viewDidLoad()
+        
         self.startSlideShow()
     }
     
